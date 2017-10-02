@@ -68,7 +68,7 @@ body {
 }
 
 .main-nav ul li.home a {
-	color: #f74d4c;
+	color: #ff6761;
 }
 
 /*content*/
@@ -124,7 +124,11 @@ input[type="submit"] {
     color: #ffe5e4;
     background: #ff675f;
     padding: 17px 35px;
-    margin: 42px 432px;
+    margin: 45px 440px;
     border: 0;
     border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+	color: #fefefe;
 }
