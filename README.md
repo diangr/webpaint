@@ -1,5 +1,6 @@
 # webpaint
-kelas mas bootstrap (mas arif)
+
+kelas bootstrap (mas arif).
 
 ## Kelas bulan kedua dari mas arif
 ### materi
