@@ -1,7 +1,7 @@
 # webpaint
 
 Bissmillah..
-Kelas bulan kedua yang di mentori oleh ###### mas Arif.
+Kelas bulan kedua yang di mentori oleh <em>mas Arif.</em>
 
 ## Kelas bulan kedua dari mas arif
 ### materi
