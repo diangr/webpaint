@@ -74,7 +74,8 @@ body {
 /*content*/
 #content-top {
 	float: left;
-	width: 1364px;
+	width: 100%; 
+	margin: auto;
 	padding: 25px 0;
 	background: #292929;
 }
