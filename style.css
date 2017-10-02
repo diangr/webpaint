@@ -60,7 +60,7 @@ body {
 	color: #c4c4c4;
 	font-weight: 700;
 	text-decoration: none;
-	padding: 10px 15px;
+	padding: 10px 20px;
 }
 
 .main-nav ul li a:hover {
@@ -106,26 +106,25 @@ body {
 	padding: 20px 0;
 }
 
-.top-text .webpaint {
+.webpaint {
 	font-weight: 900;
 }
 
 .paragraph {
-    max-width: 1100px;
     text-align: center;
-    font-size: 37px;
+    font-size: 40px;
     font-weight: 300;
 }
 
-.submit {
-	width: 175px;
-    font-size: 11px;
+input[type="submit"] {
+	max-width: 1175px;
+    font-size: 14px;
     text-transform: uppercase;
     font-weight: bold;
     color: #ffe5e4;
     background: #ff675f;
-    padding: 18px 0px;
-    margin: 42px 448px;
+    padding: 18px 35px;
+    margin: 42px 432px;
     border: 0;
     border-radius: 5px;
 }
