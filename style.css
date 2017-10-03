@@ -135,9 +135,9 @@ input[type="submit"]:hover {
 
 #section-cont {
 	float: left;
-	width: 100%; 
+	width: 82.2%; 
 	margin: auto;
-	padding: 25px 0;
+	padding: 65px 120PX;
 	background: #F6F6F6;
 }
 
@@ -162,7 +162,7 @@ input[type="submit"]:hover {
 	float: left;
 	width: 240px;
 	text-align: center;
-	margin: 20px;
+	margin: 18px;
 }
 
 .icon {
