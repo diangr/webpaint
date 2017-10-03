@@ -16,7 +16,7 @@ body {
 /*head*/
 #header-top {
 	padding: 30px 0;
-	background: #252525;
+	background: #1c1c1c;
 }
 
 /*wrap head*/
@@ -57,18 +57,18 @@ body {
 
 .main-nav ul li a {
 	text-transform: uppercase;
-	color: #c4c4c4;
+	color: #C4C4C4;
 	font-weight: 700;
 	text-decoration: none;
 	padding: 10px 20px;
 }
 
-.main-nav ul li a:hover {
-	color: #f74d4c;	
+.main-nav ul li:hover a {
+	color: #F74D4C;	
 }
 
 .main-nav ul li.home a {
-	color: #ff6761;
+	color: #F74D4C;
 }
 
 /*content*/
@@ -77,14 +77,14 @@ body {
 	width: 100%; 
 	margin: auto;
 	padding: 25px 0;
-	background: #292929;
+	background: #1F1F1F;
 }
 
 /*wrap content*/
 .wrap-cont {
 	max-width: 1100px;
 	margin: auto;
-	color: #d9d9d9;
+	color: #D0D0D0;
 }
 
 .wrap-cont::before {
@@ -122,7 +122,7 @@ input[type="submit"] {
     text-transform: uppercase;
     font-weight: bold;
     color: #ffe5e4;
-    background: #ff675f;
+    background: #F74D4C;
     padding: 17px 35px;
     margin: 45px 440px;
     border: 0;
@@ -130,5 +130,6 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-	color: #fefefe;
+	color: #FEFEFE;
 }
+
