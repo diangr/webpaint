@@ -138,11 +138,12 @@ input[type="submit"]:hover {
 	float: left;
 	width: 100%; 
 	margin: auto;
-	padding: 65px 119PX;
+	padding: 65px 0;
 	background: #F6F6F6;
 }
 
 .content1 {
+	max-width: 1105px;
 	margin: auto;
 	color: #D0D0D0;
 }
@@ -253,10 +254,10 @@ input[type="submit"]:hover {
 
 .button {
 	float: left;
-	width: 26.6%;
+	width: 27%;
     text-align: center;
     margin: 50px 0 15px;
-    padding: 0 560px;
+    padding: 0 555px;
 }
 
 input[type="submit"].submit {
