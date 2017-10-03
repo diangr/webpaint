@@ -136,7 +136,7 @@ input[type="submit"]:hover {
 
 #section-cont {
 	float: left;
-	max-width: 1200px; 
+	width: 100%; 
 	margin: auto;
 	padding: 65px 119PX;
 	background: #F6F6F6;
@@ -237,7 +237,7 @@ input[type="submit"]:hover {
 	text-align: center;
 	font-size: 30px;
 	font-weight: 700;
-	color: #505050;
+	color: #616161;
 	padding: 10px;
 }
 
@@ -253,8 +253,10 @@ input[type="submit"]:hover {
 
 .button {
 	float: left;
+	width: 26.6%;
     text-align: center;
-    margin: 50px 474px 15px;
+    margin: 50px 0 15px;
+    padding: 0 560px;
 }
 
 input[type="submit"].submit {
