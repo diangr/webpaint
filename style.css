@@ -265,6 +265,7 @@ input[type="submit"].submit {
 	padding: 10px 18px;
 	font-size: 12px;
 	color: #ffe5e4;
+	font-weight: 700;
     background: #595959;
     margin: 5px;
 }
@@ -274,6 +275,7 @@ input[type="submit"].submitAll {
 	padding: 10px 18px;
 	font-size: 12px;
 	color: #ffe5e4;
+	font-weight: 700;
     background: #F74D4C;
     margin: 5px;
 }
