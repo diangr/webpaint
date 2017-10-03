@@ -117,6 +117,7 @@ body {
 }
 
 input[type="submit"] {
+	float: left;
 	max-width: 1175px;
     font-size: 14px;
     text-transform: uppercase;
@@ -135,9 +136,9 @@ input[type="submit"]:hover {
 
 #section-cont {
 	float: left;
-	width: 82.2%; 
+	max-width: 1200px; 
 	margin: auto;
-	padding: 65px 120PX;
+	padding: 65px 119PX;
 	background: #F6F6F6;
 }
 
@@ -204,6 +205,6 @@ input[type="submit"]:hover {
 .text-icon {
 	font-size: 15px;
     color: #7C7C7C;
-    line-height: 25px;
+    line-height: 1.8;
     font-family: 'Lato', sans-serif;
 }
