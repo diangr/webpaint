@@ -135,14 +135,14 @@ input[type="submit"]:hover {
 
 #section-cont {
 	float: left;
-	/*width: 100%; */
+	width: 100%; 
 	margin: auto;
 	padding: 25px 0;
 	background: #F6F6F6;
 }
 
 .content1 {
-	max-width: 1100px;
+	/*max-width: 1100px;*/
 	margin: auto;
 	color: #D0D0D0;
 }
