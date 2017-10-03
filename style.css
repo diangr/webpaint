@@ -133,3 +133,77 @@ input[type="submit"]:hover {
 	color: #FEFEFE;
 }
 
+#section-cont {
+	float: left;
+	/*width: 100%; */
+	margin: auto;
+	padding: 25px 0;
+	background: #F6F6F6;
+}
+
+.content1 {
+	max-width: 1100px;
+	margin: auto;
+	color: #D0D0D0;
+}
+
+.content1::before {
+	content: '';
+	clear: both;
+}
+
+.content1::after {
+	content: '';
+	clear: both;
+	display: table;
+}
+
+.box {
+	float: left;
+	width: 240px;
+	text-align: center;
+	margin: 20px;
+}
+
+.icon {
+	margin: 15px 0px;
+}
+
+.icon img {
+	width: 50px;
+	padding-top: 15px; 
+}
+
+.box img::before {
+	content: '';
+	clear: both;
+}
+
+.box img::after {
+	content: '';
+	clear: both;
+	display: table;
+}
+
+.icon-height {
+	width: 50px;
+	padding-top: 10px;
+}
+
+.icon-height img {
+	width: 50px;
+    margin: 9px 85px 3px;
+}
+
+.header-icon {
+	font-size: 18px;
+    color: #505050;
+    margin: 10px 0;
+}
+
+.text-icon {
+	font-size: 15px;
+    color: #7C7C7C;
+    line-height: 25px;
+    font-family: 'Lato', sans-serif;
+}
