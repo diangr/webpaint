@@ -257,10 +257,10 @@ input[type="submit"]:hover {
 
 .button {
 	float: left;
-	width: 27%;
+	width: 30%;
     text-align: center;
-    margin: 50px 0 15px;
-    padding: 0 555px;
+    margin: 40px 0 15px;
+    padding: 0 524px;
 }
 
 input[type="submit"].submit {
@@ -281,6 +281,15 @@ input[type="submit"].submitAll {
 	font-weight: 700;
     background: #F74D4C;
     margin: 5px;
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 2)
+(min-resolution: 192dpi) {
+	input[type="submit"].submit,
+	input[type="submit"].submitAll {
+		font-weight: 900;
+	}
 }
 
 .colom-featur {
